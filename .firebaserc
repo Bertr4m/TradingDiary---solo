@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tradingdiary-47742": {
+      "hosting": {
+        "TradingApp": [
+          "tradingdiary-47742"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tradingdiary-47742"
+  }
+}
